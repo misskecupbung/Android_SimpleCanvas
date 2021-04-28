@@ -1,4 +1,4 @@
-## Wander App
+## Simple Canvas
 By: Ananda Dwi Rahmawati
 
 Result:
